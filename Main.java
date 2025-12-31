@@ -34,7 +34,6 @@ public class Main {
             return;
         }
 
-        // ---- GAME MODE ----
         System.out.println("Choose Game Mode:");
         System.out.println("1. Human vs Human");
         System.out.println("2. Human vs AI");
